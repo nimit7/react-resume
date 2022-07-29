@@ -1,0 +1,18 @@
+.card {
+    height: fit-content;
+    overflow: hidden;
+    transition: all .3s ease;
+}
+
+.card:hover {
+    transform: scale(1.03);
+    background: rgb(255, 255, 255, 0.3) !important;
+    border: 1px solid snow !important;
+    cursor: pointer;
+    height: 500px;
+}
+
+.card img:hover {
+    transform: scale(1.07);
+    transition: all .3s ease;
+}

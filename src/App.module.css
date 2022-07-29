@@ -1,0 +1,12 @@
+.Appheader {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: calc(80px + 2vmin);
+  color: rgb(104, 27, 27);
+}
+
+
+.App-link {
+  color: #61dafb;
+}

@@ -1,0 +1,17 @@
+.social {
+    position: fixed;
+}
+
+.social div {
+    padding: 4px;
+    height: 80px;
+    width: 80px;
+    opacity: 80%;
+    transition: all 0.1s ease;
+
+}
+
+.social div:hover {
+    padding: 0px;
+    opacity: 95%;
+}
